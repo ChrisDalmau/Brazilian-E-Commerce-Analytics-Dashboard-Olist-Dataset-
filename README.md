@@ -27,14 +27,11 @@ DAX for calculated columns and measures (Is Late, % Late Deliveries, Total Reven
 Data Model with relationships across orders, sellers, products, payments, and reviews
 
 📂 Dataset Source
-Kaggle – Brazilian E-Commerce Public Dataset by Olist
+Kaggle – Brazilian E-Commerce Public Dataset by Olist (cleaned files are included in repository for you to use)
 
 📁 Files in This Repository
 FinalECommerceOlist.pbix: Main Power BI file with visuals and data model
 
-/screenshots/: Images of the dashboard for preview
-
-README.md: Project overview
 
 💡 About This Project
 This project demonstrates how to transform raw transactional data into an interactive analytics solution that supports data-driven business decisions. It highlights not only what happened, but also why it matters — whether it's identifying late delivery patterns, tracking product satisfaction, or understanding customer payment trends.
