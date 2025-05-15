@@ -1,5 +1,5 @@
 # Brazilian-E-Commerce-Analytics-Dashboard-Olist-Dataset-  (Go to Google Drive Link for pbix file)
-# https://drive.google.com/file/d/1dwY4_wm_1XnyxtqirjdT9Yb2fehEevPl/view?usp=drive_link
+# https://drive.google.com/file/d/1dwY4_wm_1XnyxtqirjdT9Yb2fehEevPl/view?usp=drivesdk
 This project analyzes a real-world e-commerce dataset from Olist, featuring over 100,000 customer orders, to uncover key insights into customer satisfaction, operational efficiency, and payment behavior. 
 The dashboard was built in Power BI and includes interactive visualizations backed by a data model built from multiple cleaned and merged datasets. 
 
